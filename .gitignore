@@ -2,8 +2,7 @@
 sketch_clf/
 sketch_clf_dataset.zip
 
-# Model weights
-*.pth
+# Model weights (tracked intentionally)
 
 # Python
 __pycache__/
